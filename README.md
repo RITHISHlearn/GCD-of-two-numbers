@@ -52,9 +52,9 @@ def gcd():
 
 
 ## Output:
-![Uploading Screenshot 2024-03-26 011446.png…]()
+ ![Screenshot 2024-03-26 011446](https://github.com/RITHISHlearn/GCD-of-two-numbers/assets/145446645/b0f27c12-3d10-4b53-8efb-3b5f87e47a7c)
 
-![Uploading Screenshot 2024-03-26 011501.png…]()
+![Screenshot 2024-03-26 011501](https://github.com/RITHISHlearn/GCD-of-two-numbers/assets/145446645/ba0060ef-f50b-4d94-8362-ccf3d4f65552)
 
 
 ## Result:
